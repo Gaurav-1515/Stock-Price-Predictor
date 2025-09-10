@@ -104,3 +104,4 @@ MSE: 1842.56
 * Add real-time prediction dashboard
 
 # OUTPUT
+<img width="1918" height="1141" alt="Image" src="https://github.com/user-attachments/assets/48f9d9d1-957f-4f90-ad52-036e75238b8e" />
